@@ -10,7 +10,6 @@ Estudiante de Diseno y Desarrollo de Software en Tecsup.
  
 ### Trabajos del modulo 1
 
-#Prueba
 
 ## Herramientas que uso
  
